@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{62594328-9B70-4352-B752-DC37413D2DBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw17june/Program.cs">
+    <Files>
+      <File FileName="hw17june/Program.cs" Line="38" Column="29" />
+      <File FileName="hw17june/Human.cs" Line="15" Column="8" />
+      <File FileName="hw17june/Student.cs" Line="18" Column="1" />
+      <File FileName="hw17june/Employee.cs" Line="21" Column="1" />
+      <File FileName="hw17june/ICity.cs" Line="8" Column="30" />
+      <File FileName="hw17june/Baku.cs" Line="43" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw17june" expanded="True">
+            <Node name="hw17june" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hw17june FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
